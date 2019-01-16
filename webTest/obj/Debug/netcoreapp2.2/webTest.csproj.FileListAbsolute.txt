@@ -1,0 +1,14 @@
+C:\Users\Yozy\source\repos\webTest\webTest\bin\Debug\netcoreapp2.2\webTest.deps.json
+C:\Users\Yozy\source\repos\webTest\webTest\bin\Debug\netcoreapp2.2\webTest.runtimeconfig.json
+C:\Users\Yozy\source\repos\webTest\webTest\bin\Debug\netcoreapp2.2\webTest.runtimeconfig.dev.json
+C:\Users\Yozy\source\repos\webTest\webTest\bin\Debug\netcoreapp2.2\webTest.dll
+C:\Users\Yozy\source\repos\webTest\webTest\bin\Debug\netcoreapp2.2\webTest.pdb
+C:\Users\Yozy\source\repos\webTest\webTest\obj\Debug\netcoreapp2.2\webTest.csprojAssemblyReference.cache
+C:\Users\Yozy\source\repos\webTest\webTest\obj\Debug\netcoreapp2.2\webTest.csproj.CoreCompileInputs.cache
+C:\Users\Yozy\source\repos\webTest\webTest\obj\Debug\netcoreapp2.2\webTest.RazorAssemblyInfo.cache
+C:\Users\Yozy\source\repos\webTest\webTest\obj\Debug\netcoreapp2.2\webTest.RazorAssemblyInfo.cs
+C:\Users\Yozy\source\repos\webTest\webTest\obj\Debug\netcoreapp2.2\webTest.AssemblyInfoInputs.cache
+C:\Users\Yozy\source\repos\webTest\webTest\obj\Debug\netcoreapp2.2\webTest.AssemblyInfo.cs
+C:\Users\Yozy\source\repos\webTest\webTest\obj\Debug\netcoreapp2.2\webTest.RazorTargetAssemblyInfo.cache
+C:\Users\Yozy\source\repos\webTest\webTest\obj\Debug\netcoreapp2.2\webTest.dll
+C:\Users\Yozy\source\repos\webTest\webTest\obj\Debug\netcoreapp2.2\webTest.pdb
